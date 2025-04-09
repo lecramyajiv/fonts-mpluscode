@@ -1,1 +1,7 @@
 # fonts-mpluscode
+
+Mplus code font is for programming usage,it has high readability even in small sizes, and letterforms are designed to avoid misreadings as much as possible.
+
+This contains the following fonts
+1. Mpluscode with 50% and 60% character width.
+2. Mpluscode latin with 50% and 60% character width.
